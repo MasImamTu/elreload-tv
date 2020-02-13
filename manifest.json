@@ -1,0 +1,38 @@
+{
+  "name": "TV.ELRELOAD.TOP",
+  "short_name": "ELRELOAD TV",
+  "start_url": "https://tv.elreload.top/?m=1",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "Tempat nonton TV Online Indonesia live streaming terlengkap dan tercepat tanpa buffering gratis diakses dengan PC, laptop, gadget, maupun hp.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s48/20200211_222133.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s72/20200211_222133.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s96/20200211_222133.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s144/20200211_222133.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s168/20200211_222133.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s192/20200211_222133.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q2dsH0n4tq0/XkLHKxI7LCI/AAAAAAAAPUw/cuSbBiTshng-gsUvzTwZ8KTWPGxiyd_PgCNcBGAsYHQ/s512/20200211_222133.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
